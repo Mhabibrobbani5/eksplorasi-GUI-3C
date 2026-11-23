@@ -1,7 +1,5 @@
 # eksplorasi-GUI-3C
-# Eksplorasi Graphical User Interface (GUI) pada Java
-
-Repositori ini berisi kode program Java Swing sederhana untuk mengeksplorasi 5 komponen utama dalam pembuatan GUI serta penanganan *event* (*Event Listener*).
+Repositori ini berisi kode program Java untuk mengeksplorasi 5 komponen utama dalam pembuatan GUI serta penanganan *event* (*Event Listener*).
 
 ## 5 Komponen Utama GUI yang Digunakan
 
