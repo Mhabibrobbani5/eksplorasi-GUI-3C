@@ -32,4 +32,4 @@ Repositori ini berisi kode program Java Swing sederhana untuk mengeksplorasi 5 k
 
 ## Screenshot Hasil Program
 
-![Screenshot Hasil Program GUI](Screenshot 2026-11-24 064014.png)
+![Screenshot Hasil Program GUI](https://github.com/Mhabibrobbani5/eksplorasi-GUI-3C/blob/main/Screenshot%202026-11-24%20064014.png)
