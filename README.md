@@ -32,4 +32,4 @@ Repositori ini berisi kode program Java Swing sederhana untuk mengeksplorasi 5 k
 
 ## Screenshot Hasil Program
 
-![Screenshot Hasil Program GUI](screenshot.png)
+![Screenshot Hasil Program GUI](Screenshot 2026-11-24 064014.png)
